@@ -1,0 +1,38 @@
+dekd3									-#1
+sanook3_board							-#2
+sanookhitec3							-#3
+manager3_forum							-#6
+kapook3_football						-#7
+kapook3_hilight							-#8
+mthai3									-#43
+mthai_movie3_blog						-#44
+adslthailand3_forum						-#40
+kapook3_movie							-45
+exteen3_board							-#46
+zoneit3_forum							-#48
+
+techxcite3_forum						-#4
+notebookspec3_forum						-#35
+
+siamphone3								#9		fetch3 update_root not Run
+buycoms3_forum							#42		php index.php fetch3 all /A PHP Error was encounteret parser/parse_buycoms3_forum_helper.php validate post failed line 84
+whatphone3_forum						#47		php index.php fetch3 all /"-"
+klongdigital3							#49		php index.php fetch3 all /"-"
+siamzone3_board							#50		php index.php fetch3 all /"-"
+thaiware3_forum							53		fetch3 update_root not Run
+
+teenee3_news							-#51
+teenee3_variety							-#52
+
+2013-01-03
+lcdtvthailand3							-42
+siamha3_board							-34
+taklong3								-47
+overclockzone3_review					-54
+overclockzone3_forum					-55
+pdamobiz3_forum							-56
+
+php index.php fetch3 domain X2
+php index.php fetch3 update_root X2 <- domain_id
+php index.php fetch3 all X2 <-domain_id
+php index.php matcher  bot_auto X2 <-client_id

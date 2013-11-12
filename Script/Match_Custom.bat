@@ -4,7 +4,7 @@ cd ../../../
 cd script
 
 ::Clear subject matching_status='matching' and bot_id !=0
-start /min BotClear.bat 19
+start /min BotClear.bat 39
 timeout /t 5
 
 cd ../../../
@@ -14,7 +14,7 @@ echo Start Match ....
 
 echo ====== Start Warroom Match ====== %date% %time% >> C:\script\log_match\Match_Custom.txt
 
-start /min MatchCustom.bat 19
+start /min MatchCustom.bat 39
 timeout /t 5
 
 :loop 
